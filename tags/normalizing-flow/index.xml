@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Normalizing Flow on Edwinyam&#39;s Blog</title>
+    <link>https://edwinyam.github.io/tags/normalizing-flow/</link>
+    <description>Recent content in Normalizing Flow on Edwinyam&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Edwin Chen © 2017 | &lt;a href=&#34;http://github.com/yoshiharuyamashita/blackburn&#34; target=&#34;_blank&#34;&gt;Blackburn theme&lt;/a&gt; &amp;&lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;♥</copyright>
+    <lastBuildDate>Mon, 18 Dec 2017 01:16:43 +0800</lastBuildDate>
+    
+	<atom:link href="https://edwinyam.github.io/tags/normalizing-flow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Inverse Autoregressive Flow (IAF)</title>
+      <link>https://edwinyam.github.io/post/introduction_to_inverse_autoregressive_flow/</link>
+      <pubDate>Mon, 18 Dec 2017 01:16:43 +0800</pubDate>
+      
+      <guid>https://edwinyam.github.io/post/introduction_to_inverse_autoregressive_flow/</guid>
+      <description>今天我們要來探討Improving Variational Inference with Inverse Autoregressive Flow這篇論文。</description>
+    </item>
+    
+  </channel>
+</rss>
