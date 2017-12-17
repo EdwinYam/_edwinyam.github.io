@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Edwinyam&#39;s Blog</title>
-    <link>https://edwinyam.github.io/</link>
-    <description>Recent content on Edwinyam&#39;s Blog</description>
+    <title>Machine Learning on Edwinyam&#39;s Blog</title>
+    <link>https://edwinyam.github.io/topics/machine-learning/</link>
+    <description>Recent content in Machine Learning on Edwinyam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Edwin Chen © 2017 | &lt;a href=&#34;http://github.com/yoshiharuyamashita/blackburn&#34; target=&#34;_blank&#34;&gt;Blackburn theme&lt;/a&gt; &amp;&lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;♥</copyright>
     <lastBuildDate>Mon, 18 Dec 2017 01:16:43 +0800</lastBuildDate>
     
-	<atom:link href="https://edwinyam.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://edwinyam.github.io/topics/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,24 +18,6 @@
       
       <guid>https://edwinyam.github.io/posts/introduction_to_inverse_autoregressive_flow/</guid>
       <description>今天我們要來探討Improving Variational Inference with Inverse Autoregressive Flow這篇論文。</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://edwinyam.github.io/about/</link>
-      <pubDate>Mon, 18 Dec 2017 00:59:41 +0800</pubDate>
-      
-      <guid>https://edwinyam.github.io/about/</guid>
-      <description>This site is generated through Hugo which is a static site engine written in Go.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://edwinyam.github.io/contact/</link>
-      <pubDate>Mon, 18 Dec 2017 00:22:05 +0800</pubDate>
-      
-      <guid>https://edwinyam.github.io/contact/</guid>
-      <description> First Name  Last Name  E-Mail  City  Country     Send   </description>
     </item>
     
   </channel>

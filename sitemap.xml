@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://edwinyam.github.io/posts/introduction_to_inverse_autoregressive_flow/</loc>
+    <lastmod>2017-12-18T01:16:43+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://edwinyam.github.io/about/</loc>
     <lastmod>2017-12-18T00:59:41+08:00</lastmod>
   </url>
@@ -14,17 +19,43 @@
   
   <url>
     <loc>https://edwinyam.github.io/</loc>
-    <lastmod>2017-12-18T00:59:41+08:00</lastmod>
+    <lastmod>2017-12-18T01:16:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://edwinyam.github.io/topics/machine-learning/</loc>
+    <lastmod>2017-12-18T01:16:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://edwinyam.github.io/tags/normalizing-flow/</loc>
+    <lastmod>2017-12-18T01:16:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://edwinyam.github.io/topics/paper-introduction/</loc>
+    <lastmod>2017-12-18T01:16:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://edwinyam.github.io/posts/</loc>
+    <lastmod>2017-12-18T01:16:43+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://edwinyam.github.io/tags/</loc>
+    <lastmod>2017-12-18T01:16:43+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://edwinyam.github.io/topics/</loc>
+    <lastmod>2017-12-18T01:16:43+08:00</lastmod>
     <priority>0</priority>
   </url>
   
