@@ -6,10 +6,19 @@
     <description>Recent content in Machine Learning on Edwinyam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Edwin Chen © 2017 | &lt;a href=&#34;http://github.com/yoshiharuyamashita/blackburn&#34; target=&#34;_blank&#34;&gt;Blackburn theme&lt;/a&gt; &amp;&lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;♥</copyright>
-    <lastBuildDate>Mon, 18 Dec 2017 01:16:43 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2017 02:43:30 +0800</lastBuildDate>
     
 	<atom:link href="https://edwinyam.github.io/topics/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to Parallel Wavenet</title>
+      <link>https://edwinyam.github.io/post/introduction_to_parallel_wavenet/</link>
+      <pubDate>Mon, 18 Dec 2017 02:43:30 +0800</pubDate>
+      
+      <guid>https://edwinyam.github.io/post/introduction_to_parallel_wavenet/</guid>
+      <description>今天我們要來</description>
+    </item>
     
     <item>
       <title>Introduction to Inverse Autoregressive Flow (IAF)</title>
