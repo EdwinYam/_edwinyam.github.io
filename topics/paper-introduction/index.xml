@@ -13,10 +13,10 @@
     
     <item>
       <title>Introduction to Inverse Autoregressive Flow (IAF)</title>
-      <link>https://edwinyam.github.io/posts/introduction_to_inverse_autoregressive_flow/</link>
+      <link>https://edwinyam.github.io/post/introduction_to_inverse_autoregressive_flow/</link>
       <pubDate>Mon, 18 Dec 2017 01:16:43 +0800</pubDate>
       
-      <guid>https://edwinyam.github.io/posts/introduction_to_inverse_autoregressive_flow/</guid>
+      <guid>https://edwinyam.github.io/post/introduction_to_inverse_autoregressive_flow/</guid>
       <description>今天我們要來探討Improving Variational Inference with Inverse Autoregressive Flow這篇論文。</description>
     </item>
     
