@@ -26,7 +26,7 @@
       <pubDate>Mon, 18 Dec 2017 01:16:43 +0800</pubDate>
       
       <guid>https://edwinyam.github.io/post/introduction_to_inverse_autoregressive_flow/</guid>
-      <description>今天我們要來探討Improving Variational Inference with Inverse Autoregressive Flow這篇論文。</description>
+      <description>今天我們要來探討Improving Variational Inference with Inverse Autoregressive Flow這篇論文，而這也是我第一次撰寫介紹文，若大家在閱讀時有發現錯誤，歡迎在下方的討論區提出，謝謝大家。討論這篇論文的原因主要是為了延續下一篇介紹文Introduction to Parallel Wavenet。</description>
     </item>
     
     <item>
